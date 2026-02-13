@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="bg-slate-900 text-slate-400 py-10 px-6">
       <div className="max-w-6xl mx-auto text-center">
         <p className="font-semibold text-white">
-          China Inspection Consultancy (M) Sdn Bhd
+          CIC International (M) Sdn Bhd
         </p>
 
         <p className="mt-2">
