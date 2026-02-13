@@ -7,12 +7,14 @@ import Strengths from "@/components/Strengths";
 import Footer from "@/components/Footer";
 import ProcessFlow from "@/components/Process";
 import EcosystemDiagram from "@/components/Ecosystem";
+import CompanyProfile from "@/components/CompanyProfile";
 
 export default function HomePage() {
   return (
     <main className="flex flex-col">
       <Hero />
       <About />
+      <CompanyProfile />
       <ProcessFlow />
       <EcosystemDiagram />
       <Services />
