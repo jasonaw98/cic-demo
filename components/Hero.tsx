@@ -24,7 +24,7 @@ export default function Hero() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tight leading-tight">
-            China Inspection Consultancy <br />
+            CIC International <br />
             <span className="text-transparent bg-clip-text bg-linear-to-r from-blue-200 to-white">
               (M) Sdn Bhd
             </span>

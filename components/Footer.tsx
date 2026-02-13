@@ -11,8 +11,8 @@ export default function Footer() {
         </p>
         <p className="mt-3">
           <a href="mailto:info@cic-malaysia.com">Email: info@cic-malaysia.com</a> |{" "}
-          <a href="tel:+60312345678">Tel: +60 3-1234 5678</a> |{" "}
-          <a href="https://wa.me/60122888898" target="blank">WhatsApp: +60 12-288 8898</a>
+          <a href="tel:+60374946498">Tel: +60 3-7494 6498</a> |{" "}
+          <a href="https://wa.me/601155588988" target="blank">WhatsApp: +60 11-555 88988</a>
         </p>
         <p className="mt-4 text-sm">© {new Date().getFullYear()} CIC Malaysia</p>
       </div>
